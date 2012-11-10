@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Cp1257" standalone="no"?>
+<jardesc>
+    <jar path="C:/Darbs/Parse/jar/ParseAnn.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/ParseAnn/ExportJARDesc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <file path="/ParseAnn/.project"/>
+        <file path="/ParseAnn/.classpath"/>
+        <javaElement handleIdentifier="=ParseAnn/src"/>
+    </selectedElements>
+</jardesc>
